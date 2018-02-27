@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Deck from './Deck';
-import Modal from './Modal';
+import Deck from '.components/Deck';
+import Modal from '.components//Modal';
 
 export default class App extends Component {
     constructor(props){
